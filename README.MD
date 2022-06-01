@@ -34,8 +34,7 @@ Either you could locally host or deploy on [Heroku](https://heroku.com)
 
 Press the below button to Fast deploy on Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/scnnereye/File-To-Link
-
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/scannereyefox/File-To-Link
 
 🚀Features<p>
 💥Superfast⚡️ download and stream links.<br>
